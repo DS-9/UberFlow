@@ -7,7 +7,7 @@ The goal of this project is to perform data analytics on Uber data using various
 ## Architecture 
 ![architecture](https://github.com/DS-9/UberFlow/assets/52351948/23e1c3d6-0669-47a6-8093-d0301fbcfd25)
 
-
+  
 ## Technology Used
 - Programming Language - Python
 
